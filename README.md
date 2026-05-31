@@ -28,75 +28,58 @@
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,vite" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 ### Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Authentication & Security
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt" alt="JWT" />
-</p>
-
-* JWT Authentication
-* bcrypt Password Hashing
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-00599C?style=for-the-badge)
 
 ### Real-Time Communication
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/socketdotio" width="48" />
-  <img src="https://cdn.simpleicons.org/webrtc" width="48" />
-</p>
-
-* Socket.IO
-* WebRTC
-* Simple Peer
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
+![Simple Peer](https://img.shields.io/badge/Simple_Peer-00C853?style=for-the-badge)
 
 ### State Management
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" />
-</p>
-
-* Redux Toolkit
-* RTK Query
-* Zustand
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FFB300?style=for-the-badge)
 
 ### Cloud & Media
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/cloudinary" width="48" />
-</p>
-
-* Cloudinary
-* MediaRecorder API
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ### API & Networking
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/axios" width="48" />
-</p>
-
-* Axios
-* REST APIs
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
 ### Tools & Deployment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ### Core Concepts
 
@@ -107,6 +90,7 @@
 * MVC Architecture
 * Role-Based Access Control (RBAC)
 
+---
 
 ## 🚀 Featured Projects
 
