@@ -28,21 +28,85 @@
 
 ### Frontend
 
-React.js • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,vite" />
+</p>
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT Authentication • MVC Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-MongoDB • MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Tools
+### Authentication & Security
 
-Git • GitHub • Postman • Vercel • Render
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jwt" alt="JWT" />
+</p>
 
----
+* JWT Authentication
+* bcrypt Password Hashing
+
+### Real-Time Communication
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/socketdotio" width="48" />
+  <img src="https://cdn.simpleicons.org/webrtc" width="48" />
+</p>
+
+* Socket.IO
+* WebRTC
+* Simple Peer
+
+### State Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+* Redux Toolkit
+* RTK Query
+* Zustand
+
+### Cloud & Media
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cloudinary" width="48" />
+</p>
+
+* Cloudinary
+* MediaRecorder API
+
+### API & Networking
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/axios" width="48" />
+</p>
+
+* Axios
+* REST APIs
+
+### Tools & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
+</p>
+
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object Oriented Programming (OOP)
+* DBMS
+* Operating Systems
+* MVC Architecture
+* Role-Based Access Control (RBAC)
+
 
 ## 🚀 Featured Projects
 
@@ -93,3 +157,4 @@ Git • GitHub • Postman • Vercel • Render
 ---
 
 ### "Building scalable products, solving real-world problems, and continuously learning."
+
