@@ -10,7 +10,7 @@
 
 🏆 AIR 433 in NIMCET 2023
 
-📈 Solved 340+ DSA Problems on LeetCode and 180+ Problems on GeeksforGeeks
+📈 Solved 360+ DSA Problems on LeetCode and 180+ Problems on GeeksforGeeks
 
 ---
 
@@ -123,7 +123,7 @@
 
 ## 📊 Coding Profiles
 
-* LeetCode: 340+ Problems Solved
+* LeetCode: 360+ Problems Solved
 * GeeksforGeeks: 180+ Problems Solved
 * Consistent DSA Practice
 * Strong Foundation in Data Structures & Algorithms
