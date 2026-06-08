@@ -4,7 +4,7 @@
 
 🚀 Passionate about building scalable web applications and real-time systems.
 
-🎓 MCA Candidate (2023–2026) at MANIT Bhopal (CGPA: 8.34)
+🎓 MCA Candidate (2023–2026) at MANIT Bhopal (CGPA: 8.56)
 
 💻 Skilled in React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT Authentication, and System Design.
 
